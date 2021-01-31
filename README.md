@@ -40,4 +40,3 @@ Open [http://localhost:4201](http://localhost:4201/) to view it in the browser.
 and upload files (Listing.CSV and Contacts.csv) in order  
 :+1: and it's ready to see reeport files ! :shipit:
 
-"# Lisiting-report-task" 
