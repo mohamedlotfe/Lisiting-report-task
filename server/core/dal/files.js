@@ -1,0 +1,2 @@
+global.Listing  = []
+global.contacts  = []
